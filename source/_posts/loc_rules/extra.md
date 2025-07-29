@@ -10,7 +10,7 @@ W3C 中文排版需求
 https://www.w3.org/TR/clreq
 RFC 5646 Tags for Identifying Languages
 https://www.rfc-editor.org/rfc/rfc5646.html
-IANA语言子标签注册中心
+IANA 语言子标签注册中心
 https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 GB/T 17693 外语地名汉字译写导则
 https://openstd.samr.gov.cn/bzgk//std/std_list?p.p1=0&p.p2=17693
