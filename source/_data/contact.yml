@@ -7,7 +7,7 @@
 - name: 邮箱
   en_name: E-mail
   icon: /images/icons/contact_email.svg
-  link: mailto:contact@sheepyuhang.top
+  link: mailto:contact@utclc.top
 
 - name: RSS 源（RSS 2.0）
   en_name: RSS Source (RSS 2.0)

@@ -3,9 +3,9 @@ import os
 
 skips = ["node_modules", "public", "cht_replace"]
 replaces = {
-	"utclc.github.io":"utclc.github.io/website_cht",
-	r'<ul class="list-inline">你现在正在简体中文站，点击前往<a class="font-w-bold" href="https://utclc.github.io/website_cht/website_cht" target="_blank">繁体中文站</a>（实验性）。</ul>':
-	r'<ul class="list-inline">你現在正在繁體中文站，此站點為實驗性，可能會有潛在的問題。<br>請透過 <a class="font-w-bold" href="https://github.com/UTCLC/website_cht/issues">Github Issue</a> 回報你遇到的錯誤。<br>点击返回<a class="font-w-bold" href="https://utclc.github.io" target="_blank">簡體中文站</a>。</ul>',
+	"utclc.top":"cht.utclc.top",
+	r'<ul class="list-inline">你现在正在简体中文站，点击前往<a class="font-w-bold" href="https://cht.cht.utclc.top" target="_blank">繁体中文站</a>（实验性）。</ul>':
+	r'<ul class="list-inline">你現在正在繁體中文站，此站點為實驗性，可能會有潛在的問題。<br>請透過 <a class="font-w-bold" href="https://github.com/UTCLC/website_cht/issues">Github Issue</a> 回報你遇到的錯誤。<br>点击返回<a class="font-w-bold" href="https://utclc.top" target="_blank">簡體中文站</a>。</ul>',
 	"zh-CN":"zh-TW",
 	"扩展":"拓展",
 	"本地化":"在地化",
@@ -16,8 +16,6 @@ replaces = {
 }
 replaces_after = {
 	"請在此處輸入文字":"請在此處輸入文本",
-	"UTCLC/utclc.github.io/website_cht":"UTCLC/website_cht",
-	'data-repo="UTCLC/website_cht"':'data-repo="UTCLC/utclc.github.io"',
 	"「」":"“”"
 }
 
