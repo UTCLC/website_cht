@@ -14,9 +14,9 @@ excerpt_link: 阅读全文
 
 # MIIT ICP/IP/DOMAIN
 beian: 
-  enable: false
-  number: 
-  url: https://beian.miit.gov.cn/
+  enable: true
+  number: 萌ICP备20255650号
+  url: https://icp.gov.moe/?keyword=20255650
 
 # Miscellaneous
 favicon: /images/Logo.png
