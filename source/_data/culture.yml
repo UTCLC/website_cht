@@ -1,0 +1,28 @@
+## 企业文化
+# name:         标题
+# en_name:      英文标题
+# description:  描述内容
+# cover:        封面图片路径
+# cover_size:   封面图片大小
+# link:         链接路径，无链接为空即可
+#
+- name: 社区驱动
+  en_name: 
+  description: 完全由社区驱动，所有人都是为爱发电，不涉及任何利益关系。从社区中来，并为社区奉献。
+  cover: /images/icons/people.svg
+  cover_size: 64
+  link:
+
+- name: 技术共享
+  en_name: 
+  description: 通过 Github 开源实现技术共享，已打通 GameMaker、Python、Unity、C#、Godot、Create Your Frisk、Scratch、矢量/点阵字体制作等多种技术工作流。
+  cover: /images/icons/github.svg
+  cover_size: 64
+  link:
+
+- name: 工作范围广泛
+  en_name: 
+  description: 游戏本地化，视频字幕/嵌字，中文社区运营等
+  cover: /images/icons/earth.svg
+  cover_size: 64
+  link:

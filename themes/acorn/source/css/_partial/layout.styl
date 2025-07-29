@@ -1,0 +1,22 @@
+//
+// Layout
+//
+.container, .container-fluid, .container-stories, .container-album
+  position: relative
+  margin: 0 auto
+.container, .container-stories, .container-album
+  max-width: max-width
+  padding-right: spacer
+  padding-left: spacer
+  @media screen and (min-width: @max-width) {
+    padding-right: 0
+    padding-left: 0
+  }
+.container-stories, .container-album
+  max-width: 125rem
+.container-full
+  max-width: 100%
+
+@import "header"
+@import "footer"
+@import "banner"

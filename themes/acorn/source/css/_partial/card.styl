@@ -1,0 +1,36 @@
+//
+// Card
+//
+.card
+  position: relative
+  overflow: hidden
+  transition: transition-base
+  .card-img
+    display: block
+    max-width: 100%
+    transition(transition-base)
+  .card-body,
+  .card-body-stories,
+  .card-body-culture,
+  .card-header,
+  .card-footer
+    padding: spacer * 2
+  .card-body,
+  .card-header,
+  .card-footer
+    width: 360px
+  .card-body-stories
+    width: 280px
+  .card-body,
+  .card-body-stories,
+  .card-body-culture
+    .archive-article-title + time
+      display: inline-block
+      margin-bottom: spacer
+  .card-text,
+  .card-text > p
+    min-height: font-line-height * font-size-base * 2
+    margin-bottom: 0
+  &:hover
+    .card-img
+      opacity: .8

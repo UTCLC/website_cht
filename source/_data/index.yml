@@ -1,0 +1,32 @@
+## Index Section
+# name:         客户名称
+# title:        大标题
+# subtitle:     小标题，描述性
+#
+
+- name: projects
+  id: 
+  title: 优秀作品
+  subtitle: UTCLC 成员(组)们制作的优秀本地化作品
+  partial: album
+  bg_color: 
+  fluid: -album
+  more: /projects/
+
+- name: groups
+  id: 
+  title: 成员组
+  subtitle: UTCLC 中优秀的成员组们
+  partial: page/stories
+  bg_color: bg-light
+  fluid: -stories
+  more: /groups/
+
+- name: archive
+  id: 
+  title: 新闻
+  subtitle: 项目发布 / 公告与通知 / 本地化规范 / 博客
+  partial: archive
+  bg_color: 
+  fluid: 
+  more: /archives/

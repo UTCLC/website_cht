@@ -1,0 +1,12 @@
+## 友情链接
+# name:         文字/标题
+# link:         链接路径，无链接为空即可
+#
+- name: 腾讯频道
+  link: https://pd.qq.com/g/undertalezhloc
+
+- name: Github 组织页
+  link: https://github.com/UTCLC
+
+- name: 本站点源代码
+  link: https://github.com/UTCLC/utclc.github.io

@@ -1,0 +1,36 @@
+## 项目案例
+# name:         标题
+# en_name:      英文标题
+# description:  描述内容
+# cover:        封面图片路径
+# link:         链接路径，无链接为空即可
+# preview:      预览路径，无则可以为空
+#
+- name: 请在此处输入文本
+  en_name: 
+  description: 社区知名视频字幕组，在哔哩哔哩搬运并翻译 UT、DR、东方相关内容。
+  cover: 
+  link: 
+  preview: 
+
+- name: IGB Team CN
+  en_name: 
+  description: 同人制作团队 IGB Team 中文分部，负责游戏中文本地化与中文社群的运营。代表作品：Facing Demons/直面恶魔
+  cover: 
+  link: 
+  preview: 
+
+- name: 太岁爷汉化组
+  en_name: 
+  description: 代表作品：LA JUPO VANIA、SANS SPIELEN’S EPIC MEGALOVANIA
+  cover: 
+  link: 
+  preview: 
+
+- name: 不是汉化组
+  en_name: 
+  description: "代表作品：Undertale: Red and Yellow、Undertale Yellow: Shades of Justice"
+  cover: 
+  link: 
+  preview: 
+
