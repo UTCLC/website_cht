@@ -3,7 +3,7 @@ import os
 
 skips = ["node_modules", "public", "cht_replace"]
 replaces = {
-	"utclc.github.io":"utclc.github.io/cht",
+	"utclc.github.io":"utclc.github.io/website_cht",
 	"zh-CN":"zh-TW",
 	"扩展":"拓展",
 	"本地化":"在地化",
@@ -13,11 +13,14 @@ replaces = {
 	"】":"」"
 }
 replaces_after = {
-	"請在此處輸入文字":"請在此處輸入文本"
+	"請在此處輸入文字":"請在此處輸入文本",
+	"UTCLC/utclc.github.io/website_cht":"UTCLC/website_cht",
+	'data-repo="UTCLC/website_cht"':'data-repo="UTCLC/utclc.github.io"',
 }
 
 def readcht(directory):
-	if (not os.path.exists(directory) or not os.path.isfile(directory)):
+	directory = "./cht_replace" + directory.removeprefix(".")
+	if (not os.path.exists(directory)) or (not os.path.isfile(directory)):
 		return ""
 	with open(directory, "r", encoding="utf-8") as f:
 		return f.read()
