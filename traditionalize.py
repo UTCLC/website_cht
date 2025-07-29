@@ -17,7 +17,8 @@ replaces = {
 replaces_after = {
 	"請在此處輸入文字":"請在此處輸入文本",
 	"UTCLC/utclc.github.io/website_cht":"UTCLC/website_cht",
-	'data-repo="UTCLC/website_cht"':'data-repo="UTCLC/utclc.github.io"'
+	'data-repo="UTCLC/website_cht"':'data-repo="UTCLC/utclc.github.io"',
+	"「」":"“”"
 }
 
 def readcht(directory):
