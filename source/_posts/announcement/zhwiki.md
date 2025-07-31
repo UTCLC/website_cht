@@ -6,7 +6,7 @@ author: 晓晓_Akatsuki
 ---
 
 致各位：
-大家好！我们很高兴的宣布，中文的 Undertale Wiki 和 Deltarune Wiki 将从原本的 Fandom 站点搬到全新的 [zh.undertale.wiki](zh.undertale.wiki)（[公告](https://zh.undertale.wiki/w/Undertale_Wiki:%E9%81%B7%E7%A7%BB%E9%80%9A%E7%9F%A5)）和 [zh.deltarune.wiki](zh.deltarune.wiki)（[公告](https://zh.deltarune.wiki/w/Deltarune_Wiki:%E9%81%B7%E7%A7%BB%E9%80%9A%E7%9F%A5)），无论你是从 Fandom 过来的编辑者，还是全新的用户，都欢迎加入我们全新的站点！
+大家好！我们很高兴的宣布，中文的 Undertale Wiki 和 Deltarune Wiki 将从原本的 Fandom 站点搬到全新的 [zh.undertale.wiki](https://zh.undertale.wiki)（[公告](https://zh.undertale.wiki/w/Undertale_Wiki:%E9%81%B7%E7%A7%BB%E9%80%9A%E7%9F%A5)）和 [zh.deltarune.wiki](https://zh.deltarune.wiki)（[公告](https://zh.deltarune.wiki/w/Deltarune_Wiki:%E9%81%B7%E7%A7%BB%E9%80%9A%E7%9F%A5)），无论你是从 Fandom 过来的编辑者，还是全新的用户，都欢迎加入我们全新的站点！
 新站点优势
 1. 加载速度更快：和旧有 Fandom 相比，我们不会加载那些广告、弹出式窗口等各种乱七八糟的追踪脚本。在新站点中，加载时间更加快速。
 2. 没有广告：如果你曾经使用手机查阅 Wiki，或是在没有安装阻挡广告插件的情况下浏览 Fandom 时，你一定会被 Fandom 多到烦的广告给影响，各种视频、图像广告严重影响到阅读者和编辑者的使用环境。在新站点中，你可以更专注在没有广告下阅读与编辑条目本身。
