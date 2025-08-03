@@ -6,7 +6,7 @@ title: 项目
         <td>项目</td>
         <td>原作者</td>
         <td style="min-width:85px">类型</div></td>
-        <td style="min-width:50px">原语言</div></td>
+        <td style="min-width:70px">原语言</div></td>
         <td style="min-width:86px">译为语言</div></td>
         <td><a href="/groups">所属组别</a> / 署名</td>
         <td style="min-width:192px">参与者名单</td>
