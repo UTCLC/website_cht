@@ -1,4 +1,4 @@
 ---
-title: 新闻
+title: 新聞
 layout: archive
 ---

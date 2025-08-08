@@ -1,13 +1,13 @@
-## 联系方式
-# name:         联系方式名称
+## 聯絡方式
+# name:         聯絡方式名稱
 # en_name:      英文
-# icon:         图标路径，不使用图标为空即可
-# link:         链接路径，无链接为空即可
+# icon:         圖示路徑，不使用圖示為空即可
+# link:         連結路徑，無連結為空即可
 #
-- name: 邮箱
+- name: 郵箱
   en_name: E-mail
   icon: /images/icons/contact_email.svg
-  link: mailto:contact@utclc.top
+  link: mailto:contact@cht.utclc.top
 
 - name: RSS 源（RSS 2.0）
   en_name: RSS Source (RSS 2.0)

@@ -1,10 +1,10 @@
 ---
-title: 关于
+title: 關於
 ---
 
 ##### UNDERTALE Chinese Localization Community
 ##### UNDERTALE 中文本地化社区 / UNDERTALE 中文在地化社群
-[![QQ](https://img.shields.io/badge/腾讯频道-undertalezhloc-blue.svg?style=flat-square&color=12b7f5&logo=qq)](https://pd.qq.com/g/undertalezhloc)
+[![QQ](https://img.shields.io/badge/騰訊頻道-undertalezhloc-blue.svg?style=flat-square&color=12b7f5&logo=qq)](https://pd.qq.com/g/undertalezhloc)
 
 这是一个针对于 UNDERTALE 中文社区的非营利性本地化交流群组，建立在腾讯频道。
 旨在帮助各位中文译者能够更好的为中文社区制作本地化内容。
