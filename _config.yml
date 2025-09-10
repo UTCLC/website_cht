@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: UNDERTALE 中文本地化社区
+title: UNDERTALE 中文在地化社群
 subtitle: 'UNDERTALE Chinese Localization Community'
-description: "UNDERTALE 中文本地化社区<br>UNDERTALE 中文在地化社群<br>UNDERTALE Chinese Localization Community"
+description: "UNDERTALE 中文在地化社群<br>UNDERTALE 中文在地化社群<br>UNDERTALE Chinese Localization Community"
 keywords: 
-author: UNDERTALE 中文本地化社区
-language: zh-CN
+author: UNDERTALE 中文在地化社群
+language: zh-TW
 timezone: 'Asia/Hong_Kong'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://utclc.top
+url: https://cht.utclc.top
 permalink: :title/
 permalink_defaults:
 pretty_urls:
