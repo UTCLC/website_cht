@@ -35,11 +35,11 @@
                         <h3>本站使用 Cookie</h3>
                     </div>
                     <div class="cookieconsent-text">
-                        本站会使用 Cookie 及其他追踪技术，以提升您的浏览体验，具体用途包括：保障网站基本功能运行、优化网站使用体验、衡量您对我们产品与服务的兴趣程度、个性化营销互动内容，以及向您投放更具相关性的广告。
+                        本站會使用 Cookie 及其他追蹤技術，以提升您的瀏覽體驗，具體用途包括：保障網站基本功能執行、最佳化網站使用體驗、衡量您對我們產品與服務的興趣程度、個性化營銷互動內容，以及向您投放更具相關性的廣告。
                     </div>
                     <div class="cookieconsent-buttons">
                         <button id="cookieconsent-accept" class="btn btn-primary">我同意</button>
-                        <button id="cookieconsent-reject" class="btn btn-secondary">我拒绝</button>
+                        <button id="cookieconsent-reject" class="btn btn-secondary">我拒絕</button>
                         <button id="cookieconsent-settings" class="btn btn-outline">更改我的偏好</button>
                     </div>
                 </div>
@@ -177,17 +177,17 @@
                 <div class="cookieconsent-modal-overlay">
                     <div class="cookieconsent-modal-content">
                         <div class="cookieconsent-modal-header">
-                            <h2> Cookie 偏好设置</h2>
+                            <h2> Cookie 偏好設定</h2>
                             <button class="cookieconsent-close-btn" id="cookieconsent-close-header">&times;</button>
                         </div>
                         <div class="cookieconsent-sections">
                             <div class="cookieconsent-section">
                                 <div class="section-header">
                                     <h3>必要型 Cookie</h3>
-                                    <span class="status-badge required">始终启用</span>
+                                    <span class="status-badge required">始終啟用</span>
                                 </div>
-                                <p>这些 Cookie 对于通过我们的网站提供服务并使您能够使用我们网站的某些功能至关重要。</p>
-                                <p>如果没有这些 Cookie ，我们无法在网站上为您提供某些服务。</p>
+                                <p>這些 Cookie 對於通過我們的網站提供服務並使您能夠使用我們網站的某些功能至關重要。</p>
+                                <p>如果沒有這些 Cookie ，我們無法在網站上為您提供某些服務。</p>
                             </div>
                             <div class="cookieconsent-section">
                                 <div class="section-header">
@@ -197,44 +197,44 @@
                                         <span class="toggle-slider"></span>
                                     </label>
                                 </div>
-                                <p>这些 Cookie 用于为您提供更个性化的网站体验，并记住您在使用网站时做出的选择。</p>
-                                <p>例如，我们可以使用功能性 Cookie 记住您的语言偏好或记住您的登录详情。</p>
+                                <p>這些 Cookie 用於為您提供更個性化的網站體驗，並記住您在使用網站時做出的選擇。</p>
+                                <p>例如，我們可以使用功能性 Cookie 記住您的語言偏好或記住您的登入詳情。</p>
                             </div>
                             <div class="cookieconsent-section">
                                 <div class="section-header">
-                                    <h3>跟踪 Cookie</h3>
+                                    <h3>跟蹤 Cookie</h3>
                                     <label class="toggle-switch">
                                         <input type="checkbox" id="consent-analytics" ${this.consent['analytics'] ? 'checked' : ''}>
                                         <span class="toggle-slider"></span>
                                     </label>
                                 </div>
-                                <p>这些 Cookie 用于收集信息以分析我们网站的流量以及访问者如何使用我们的网站。</p>
-                                <p>例如，这些 Cookie 可能会跟踪您在网站上停留的时间或您访问的页面，这有助于我们了解如何为您改善网站。</p>
-                                <p>通过这些跟踪和性能 Cookie 收集的信息不会识别任何个人访问者。</p>
+                                <p>這些 Cookie 用於收集資訊以分析我們網站的流量以及訪問者如何使用我們的網站。</p>
+                                <p>例如，這些 Cookie 可能會跟蹤您在網站上停留的時間或您訪問的頁面，這有助於我們瞭解如何為您改善網站。</p>
+                                <p>通過這些跟蹤和效能 Cookie 收集的資訊不會識別任何個人訪問者。</p>
                             </div>
                             <div class="cookieconsent-section">
                                 <div class="section-header">
-                                    <h3>定位和广告 Cookie</h3>
+                                    <h3>定位和廣告 Cookie</h3>
                                     <label class="toggle-switch">
                                         <input type="checkbox" id="consent-targeting" ${this.consent['targeting'] ? 'checked' : ''}>
                                         <span class="toggle-slider"></span>
                                     </label>
                                 </div>
-                                <p>这些 Cookie 用于根据您的浏览习惯显示可能对您感兴趣的广告。</p>
-                                <p>这些 Cookie ，由我们的内容和/或广告提供商提供，可能将他们从我们的网站收集的信息与其他他们独立收集的有关您的网络浏览器在他们的网站网络中的活动的信息相结合。</p>
-                                <p>如果您选择删除或禁用这些定向或广告 Cookie ，您仍会看到广告，但它们可能与您不相关。</p>
+                                <p>這些 Cookie 用於根據您的瀏覽習慣顯示可能對您感興趣的廣告。</p>
+                                <p>這些 Cookie ，由我們的內容和/或廣告提供商提供，可能將他們從我們的網站收集的資訊與其他他們獨立收集的有關您的網路瀏覽器在他們的網站網路中的活動的資訊相結合。</p>
+                                <p>如果您選擇刪除或停用這些定向或廣告 Cookie ，您仍會看到廣告，但它們可能與您不相關。</p>
                             </div>
                         </div>
                         <div class="cookieconsent-buttons">
-                            <button id="cookieconsent-save" class="btn btn-primary">保存我的偏好</button>
+                            <button id="cookieconsent-save" class="btn btn-primary">儲存我的偏好</button>
                             <button id="cookieconsent-cancel" class="btn btn-outline">取消</button>
                         </div>
                         <div class="cookieconsent-privacy">
-                            <h3>您的隐私</h3>
-                            <p>您的隐私对我们很重要</p>
-                            <p> Cookie 是非常小的文本文件，当您访问网站时存储在您的计算机上。我们使用 Cookie 来实现各种目的，并增强您在我们网站上的在线体验（例如，记住您的账户登录详情）。</p>
-                            <p>您可以更改您的偏好，并拒绝在浏览我们的网站时将某些类型的 Cookie 存储在您的计算机上。您还可以删除已存储在计算机上的任何 Cookie ，但请记住，删除 Cookie 可能会阻止您使用我们网站的某些部分。</p>
-                            <p>要了解更多，请访问我们的<a href="/privacy-policy" target="_blank">隐私政策</a>。</p>
+                            <h3>您的隱私</h3>
+                            <p>您的隱私對我們很重要</p>
+                            <p> Cookie 是非常小的文本檔案，當您訪問網站時儲存在您的計算機上。我們使用 Cookie 來實現各種目的，並增強您在我們網站上的線上體驗（例如，記住您的賬戶登入詳情）。</p>
+                            <p>您可以更改您的偏好，並拒絕在瀏覽我們的網站時將某些型別的 Cookie 儲存在您的計算機上。您還可以刪除已儲存在計算機上的任何 Cookie ，但請記住，刪除 Cookie 可能會阻止您使用我們網站的某些部分。</p>
+                            <p>要了解更多，請訪問我們的<a href="/privacy-policy" target="_blank">隱私政策</a>。</p>
                         </div>
                     </div>
                 </div>
