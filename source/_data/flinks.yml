@@ -1,6 +1,6 @@
-## 友情链接
-# name:         文字/标题
-# link:         链接路径，无链接为空即可
+## 友情連結
+# name:         文字/標題
+# link:         連結路徑，無連結為空即可
 #
 
 - name: UNDERTALE 中文 Wiki
@@ -9,23 +9,23 @@
 - name: DELTARUNE 中文 Wiki
   link: https://zh.deltarune.wiki
 
-- name: UNDERTALE 社区 Wiki
+- name: UNDERTALE 社群 Wiki
   link: https://utcwiki.com
 
-- name: UNDERTALE 同人游戏汉化下载站
+- name: UNDERTALE 同人遊戲漢化下載站
   link: https://cxxw233.github.io/UTFangameChsDownload/
 
-- name: UNDERTALE 中文论坛
+- name: UNDERTALE 中文論壇
   link: https://utbbs.top/
 
-- name: 哔哩哔哩 好人汉化组
+- name: 嗶哩嗶哩 好人漢化組
   link: https://space.bilibili.com/3546893244172492
 
-- name: 哔哩哔哩 雨伞架汉化组
+- name: 嗶哩嗶哩 雨傘架漢化組
   link: https://space.bilibili.com/3546745621448830
 
-- name: 哔哩哔哩 TEAM_190
+- name: 嗶哩嗶哩 TEAM_190
   link: https://space.bilibili.com/397457730
 
-- name: 哔哩哔哩 希望与梦想合作社
+- name: 嗶哩嗶哩 希望與夢想合作社
   link: https://space.bilibili.com/3546792559905625

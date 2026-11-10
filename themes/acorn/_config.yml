@@ -1,21 +1,21 @@
 # Header
 menu:
-  首页: /
-  关于: /about
-  成员组: /groups
-  项目: /projects
-  公告与通知: /tags/公告与通知/
-  本地化规范: /tags/本地化规范/
-  新闻: /archives
-  【加入我们】: https://pd.qq.com/g/undertalezhloc
+  首頁: /
+  關於: /about
+  成員組: /groups
+  專案: /projects
+  公告與通知: /tags/公告與通知/
+  在地化規範: /tags/在地化規範/
+  新聞: /archives
+  「加入我們」: https://pd.qq.com/g/undertalezhloc
 
 # Content
-excerpt_link: 阅读全文
+excerpt_link: 閱讀全文
 
 # MIIT ICP/IP/DOMAIN
 beian: 
   enable: true
-  number: 萌ICP备20255650号
+  number: 萌ICP備20255650號
   url: https://icp.gov.moe/?keyword=20255650
 
 # Miscellaneous
@@ -42,11 +42,11 @@ toc: true
 
 # Slogan
 slogan: 
-  primary: UNDERTALE 中文本地化社区
+  primary: UNDERTALE 中文在地化社群
   secondary: UNDERTALE Chinese Localization Community
-  pages: UNDERTALE 中文本地化社区
-  posts: UNDERTALE 中文本地化社区
-  archives: 项目发布 / 公告与通知 / 本地化规范 / 博客
+  pages: UNDERTALE 中文在地化社群
+  posts: UNDERTALE 中文在地化社群
+  archives: 專案釋出 / 公告與通知 / 在地化規範 / 部落格
 
 # Library
 libs:
