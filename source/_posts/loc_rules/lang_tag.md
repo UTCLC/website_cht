@@ -1,37 +1,37 @@
 ---
-title: 语言标签规范
+title: 語言標籤規範
 date: 2024-10-10 17:36:00
-tags: 本地化规范
+tags: 在地化規範
 ---
 
-如本地化时需要使用语言标签，可参考规范 [RFC 5646](https://www.rfc-editor.org/rfc/rfc5646.html) 与查阅 [IANA 语言子标签注册中心](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry)
+如在地化時需要使用語言標籤，可參考規範 [RFC 5646](https://www.rfc-editor.org/rfc/rfc5646.html) 與查閱 [IANA 語言子標籤註冊中心](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry)
 格式：language-extlang-script-region
-比较常用的中文语言标签与对应名称如下
-【language】
+比較常用的中文語言標籤與對應名稱如下
+「language」
 zh：中文
-【extlang】
-cmn：普通话/国语/官话
-yue：粤语
+「extlang」
+cmn：普通話/國語/官話
+yue：粵語
 lzh：文言文
-【script】
-Hans：简体
-Hant：繁体
-【region】
-CN：中国内地
-TW：台湾
-HK：香港特别行政区
-MO：澳门特别行政区
+「script」
+Hans：簡體
+Hant：繁體
+「region」
+CN：中國內地
+TW：臺灣
+HK：香港特別行政區
+MO：澳門特別行政區
 SG：新加坡
-【例】
+「例」
 zh-cmn-Hans-CN
-简体中文（普通话，中国内地）
+簡體中文（普通話，中國內地）
 zh-yue-Hant-HK
 繁體中文（粵語，香港特別行政區）
 zh
 中文
 zh-Hans
-简体中文 / 中文（简体）
-zh-CN
-中文（中国内地）
+簡體中文 / 中文（簡體）
+zh-TW
+中文（中國內地）
 zh-yue
-中文（粤语）
+中文（粵語）
